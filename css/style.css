@@ -1,1 +1,11 @@
-h
+#main-nav {
+  background-color: lightred;
+  overflow: scroll;
+  position: fixed;
+}
+#navbar-contents {
+  position:center;
+  padding: 2;
+  float: right-side;
+}
+
