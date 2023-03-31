@@ -29,22 +29,22 @@
   position: relative;
   padding: 1px;
   font-family: Serif;
-  color: #FFCCCB;
+  color: #D9381E;
 } 
 #main-nav ul li a:hover {
   text-decoration: underline dotted;
   background-color: #E3242B;
 }
 h2 {
-  font-size: 54px;
+  font-size: 32px;
   text-align: center;
-  background-color: #BC5448;
+  background-color: #D9381E;
   color: #000000;
 }
 h3 {
   text-align: center;
   color: #000000;
-  background-color: #BC5448;
+  background-color: #D9381E;
 }
 p {
   font-family: "Serif";
