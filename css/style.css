@@ -70,10 +70,10 @@ p {
   padding: 5px;
   margin-left:100px;
   margin-right:100px; 
-  margin-top:25px;
-  margin-bottom:25px;
+  margin-top:20px;
+  margin-bottom:20px;
   text-align: left;
-  border-style: dashed;
+  border-style: solid;
   border-color: #000000;
 }
 #accomplishments:hover {
