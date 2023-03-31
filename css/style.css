@@ -59,11 +59,33 @@ p {
   margin-right:100px; 
   margin-top:20px;
   margin-bottom:20px;
-  text-align: left;
+  text-align: center;
   border-style: solid;
   border-color: #000000;
 }
 #information:hover {
   transform: rotate(0.5turn);
 }
-  
+#accomplisments {
+  padding: 5px;
+  margin-left:100px;
+  margin-right:100px; 
+  margin-top:25px;
+  margin-bottom:25px;
+  text-align: left;
+  border-style: dashed;
+  border-color: #000000;
+}
+#accomplisments:hover {
+  transform: rotate(0.3turn);
+}
+#languages {	
+  padding: 5px;
+  margin-left:100px;
+  margin-right:100px; 
+  margin-top:20px;
+  margin-bottom:20px;
+  text-align: left;
+  border-style: solid;
+  border-color: #000000;
+}
