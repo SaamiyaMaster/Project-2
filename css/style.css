@@ -1,7 +1,9 @@
 #main-nav {
   background-color: #FFCCCB;
-  overflow: scroll;
+  overflow: hidden;
   position: fixed;
+  width: 100%;
+  top: 0%;
 }
 #navbar-contents {
   position:center;
