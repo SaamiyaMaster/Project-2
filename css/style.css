@@ -1,11 +1,33 @@
 #main-nav {
-  background-color: lightred;
+  background-color: #FFCCCB;
   overflow: scroll;
   position: fixed;
 }
 #navbar-contents {
   position:center;
-  padding: 2;
+  padding: 2px;
   float: right-side;
 }
-
+#main-nav ul{
+  display: block;
+  position: relative;
+  padding: 1px;
+  margin: 1;
+  float: left;
+  color: #FFCCCB;
+}
+#main-nav ul li{
+  position: relative;
+  display: block;
+  font-family: Serif;
+  float: left;
+  right: 50%;
+  padding: 1px;
+}
+#main-nav ul li a{
+  display: block;
+  position: relative;
+  padding: 1px;
+  font-family: Serif;
+  color: #FFCCCB;
+} 
