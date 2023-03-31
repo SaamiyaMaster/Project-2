@@ -1,7 +1,7 @@
 #main-nav {
   background-color: #FFCCCB;
   overflow: hidden;
-  position: fixed;
+  position: center;
   width: 100%;
   top: 0%;
 }
@@ -33,3 +33,29 @@
   font-family: Serif;
   color: #FFCCCB;
 } 
+#main-nav ul li a:hover {
+  text-decoration: bold;
+  background-color: #E3242B;
+}
+h2 {
+  font-size: 54px;
+  text-align: center;
+  background-color: #BC5448;
+  color: #000000;
+}
+h3 {
+  text-align: center;
+  color: #000000;
+  background-color: #BC5448;
+}
+p {
+  font-family: "Serif";
+  color: #000000;
+}
+#resume {
+  background image: url("https://png.pngtree.com/thumb_back/fh260/background/20191014/pngtree-red-color-stage-background-image_319342.jpg");
+}
+#information {
+  
+  
+  
