@@ -60,6 +60,8 @@ p {
   margin-top:20px;
   margin-bottom:20px;
   text-align: left;
+  border-style: solid;
+  border-color: #000000;
 }
 #information:hover {
   transform: rotate(0.5turn);
