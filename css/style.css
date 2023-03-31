@@ -77,7 +77,7 @@ p {
   border-color: #000000;
 }
 #accomplishments:hover {
-  transform: rotate(0.3turn);
+  transform: rotate(0.5turn);
 }
 #languages {	
   padding: 5px;
