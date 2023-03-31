@@ -6,15 +6,15 @@
   top: 0%;
 }
 #navbar-contents {
-  position:center;
+  position:relative;
   padding: 2px;
-  float: right-side;
+  float: right;
 }
 #main-nav ul{
   display: block;
   position: relative;
   padding: 1px;
-  margin: 1;
+  margin: 1px;
   float: left;
   color: #FFCCCB;
 }
