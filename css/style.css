@@ -175,3 +175,6 @@ p {
   position: relative;
   padding-left: 1px;
 }
+.exact:hover {
+  transform: scale(2, 0.5);
+}
