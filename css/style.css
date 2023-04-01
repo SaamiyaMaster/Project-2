@@ -59,7 +59,7 @@ p {
   border-color: #000000;
 }
 #information:hover {
-  transform: rotate(0.5turn);
+  transform: rotate(-0.5turn);
 }
 #accomplishments {
   padding: 5px;
@@ -145,4 +145,33 @@ p {
 }
 .enhypen-image:hover {
   transform: rotate(-0.5turn);
+}
+#song {
+  background-image: url("https://www.colorhexa.com/ff0064.png");
+}
+#intro {	
+  padding: 5px;
+  margin-left:100px;
+  margin-right:100px; 
+  margin-top:20px;
+  margin-bottom:20px;
+  text-align: left;
+  border-style: solid;
+  border-color: #000000;
+}
+#audio {
+  text-align: center;
+  border-color: #000000;
+  border-style: dotted;
+  margin-left:90px;
+  margin-right:90px; 
+  margin-top:25px;
+  margin-bottom:25px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding: 10px;
+}
+.exact {
+  position: relative;
+  padding-left: 1px;
 }
