@@ -92,12 +92,12 @@ p {
 }
 #exo-section {
   text-align: left;
-  border-color: #FFFFFF;
-  border-style: dashed;
+  border-color: #000000;
+  border-style: dotted;
   margin-left:100px;
   margin-right:100px; 
-  margin-top:20px;
-  margin-bottom:20px;
+  margin-top:25px;
+  margin-bottom:25px;
   padding-left: 7px;
   padding-right: 7px;
   padding: 10px;
@@ -114,14 +114,35 @@ p {
   border-style: dashed;
   margin-left:100px;
   margin-right:100px; 
-  margin-top:20px;
-  margin-bottom:20px;
+  margin-top:25px;
+  margin-bottom:25px;
   padding-left: 7px;
   padding-right: 7px;
   padding: 10px;
 }
 .blackpink-image {
-  width: 222px;
-  height: 444px;
+  position: center;
   padding-left: 1px;
+}
+.blackpink-image:hover {
+  transform: rotate(-0.75turn);
+}
+#bp-section {
+  text-align: left;
+  border-color: #000000;
+  border-style: dotted;
+  margin-left:100px;
+  margin-right:100px; 
+  margin-top:25px;
+  margin-bottom:25px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding: 10px;
+}
+.blackpink-image {
+  position: center;
+  padding-left: 1px;
+}
+.blackpink-image:hover {
+  transform: rotate(-0.5turn);
 }
