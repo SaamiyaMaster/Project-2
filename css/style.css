@@ -1,18 +1,18 @@
 #main-nav {
   background-color: #FFCCCB;
   overflow: hidden;
-  position: relative;
 }
 #navbar-contents {
   position:relative;
-  padding: 2px;
-  float: right;
+  width: 100%;
+  float: left;
 }
 #main-nav ul{
+  list-style-type: none;
   display: block;
   position: relative;
-  padding: 1px;
-  margin: 1px;
+  padding: 0;
+  margin: 0;
   float: left;
   color: #FFCCCB;
 }
@@ -48,7 +48,7 @@ h3 {
 }
 p {
   font-family: "Serif";
-  color: #000000;
+  color: #FFFFFF;
 }
 #resume {
   background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20191014/pngtree-red-color-stage-background-image_319342.jpg");
