@@ -92,7 +92,7 @@ p {
 }
 #exo-section {
   text-align: left;
-  border-color: #7852A9;
+  border-color: #FFFFFF;
   border-style: dashed;
   margin-left:100px;
   margin-right:100px; 
@@ -101,4 +101,27 @@ p {
   padding-left: 7px;
   padding-right: 7px;
   padding: 10px;
+}
+.exo-image {
+  position: center;
+}
+.exo-image:hover {
+  transform: rotate(0.75turn);
+}
+#bp-section {
+  text-align: left;
+  border-color: #FFFFFF;
+  border-style: dashed;
+  margin-left:100px;
+  margin-right:100px; 
+  margin-top:20px;
+  margin-bottom:20px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding: 10px;
+}
+.blackpink-image {
+  width: 222px;
+  height: 444px;
+  padding-left: 1px;
 }
