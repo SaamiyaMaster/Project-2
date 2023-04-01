@@ -103,7 +103,7 @@ p {
   padding: 10px;
 }
 .exo-image {
-  position: center;
+  position: relative;
 }
 .exo-image:hover {
   transform: rotate(0.75turn);
@@ -121,7 +121,7 @@ p {
   padding: 10px;
 }
 .blackpink-image {
-  position: center;
+  position: relative;
   padding-left: 1px;
 }
 .blackpink-image:hover {
@@ -140,7 +140,7 @@ p {
   padding: 10px;
 }
 .blackpink-image {
-  position: center;
+  position: relative;
   padding-left: 1px;
 }
 .blackpink-image:hover {
