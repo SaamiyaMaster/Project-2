@@ -84,3 +84,21 @@ p {
   border-style: solid;
   border-color: #000000;
 }
+.h1-underline {
+  text-decoration: underline dotted 3px;
+}
+#interests {
+  background-image: url("https://imgv3.fotor.com/images/blog-richtext-image/violet-gauze.jpg");
+}
+#exo-section {
+  text-align: left;
+  border-color: #7852A9;
+  border-style: dashed;
+  margin-left:100px;
+  margin-right:100px; 
+  margin-top:20px;
+  margin-bottom:20px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding: 10px;
+}
