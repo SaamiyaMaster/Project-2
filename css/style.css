@@ -121,13 +121,15 @@ p {
   padding: 10px;
 }
 .blackpink-image {
+  width: 75px;
+  height: 50px;
   position: relative;
   padding-left: 1px;
 }
 .blackpink-image:hover {
   transform: rotate(-0.75turn);
 }
-#bp-section {
+#enha-section {
   text-align: left;
   border-color: #000000;
   border-style: dotted;
@@ -139,10 +141,12 @@ p {
   padding-right: 7px;
   padding: 10px;
 }
-.blackpink-image {
+.enhypen-image {
   position: relative;
   padding-left: 1px;
 }
-.blackpink-image:hover {
+.enhypen-image:hover {
+  width: 75px;
+  height: 50px;
   transform: rotate(-0.5turn);
 }
